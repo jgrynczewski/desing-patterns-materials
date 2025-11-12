@@ -1,0 +1,10 @@
+# Dependencies for Design Patterns notebooks
+
+# HTTP library (used in Facade pattern examples)
+requests>=2.31.0
+
+# ORM library (used in Builder pattern examples)
+sqlalchemy>=2.0.0
+
+# SQLAlchemy dependency
+greenlet>=3.0.0
